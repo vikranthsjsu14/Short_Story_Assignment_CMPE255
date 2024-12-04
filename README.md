@@ -1,4 +1,4 @@
-This assignment is about a short story. I chose an article about LLMs challenges and solutions. This article clearly explains what goes into LLMs and how it benefits the Cloud platforms. 
+This assignment is about a short story. I chose an article about LLMs challenges and solutions ifluenced by authors: Baolin Li, Yankai Jiang, Vijay Gadepally.  
 
 Article Link: https://arxiv.org/pdf/2407.12391
 
