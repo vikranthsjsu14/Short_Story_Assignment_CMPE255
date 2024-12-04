@@ -8,4 +8,4 @@ Short Story Article: https://medium.com/@vikranth.jakamukala/llm-inference-servi
 
 Presentation Slides: https://www.slideshare.net/secret/12Kb44YdMQcXmi
 
-Presentation Video: 
+Presentation Video: https://youtu.be/vTxtHCgfUE4
